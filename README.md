@@ -4,28 +4,28 @@
 
 # 🚀 Kewin Cauê | Backend & AI-Focused Developer
 
-## 👨‍💻 Sobre mim
+## 👨‍💻 About Me
 
-Sou desenvolvedor focado em Backend, SaaS e Inteligência Artificial aplicada a negócios.
+Backend-focused developer building SaaS products and AI-powered solutions for real-world business problems.
 
-Meu objetivo é evoluir como desenvolvedor Full Stack com foco em produtos escaláveis e soluções orientadas a dados.
+Currently evolving toward Full Stack development with a strong emphasis on scalable systems, clean architecture, and data-driven products.
 
 ---
 
-## 🧠 Atualmente Estudando
+## 🧠 Currently Learning & Building
 
-- Python avançado
+- Advanced Python
 - FastAPI
-- Arquitetura SaaS
-- NLP (Processamento de Linguagem Natural)
-- Integração com APIs de IA
-- Sistemas de assinatura (Stripe)
+- SaaS Architecture
+- Natural Language Processing (NLP)
+- AI API Integrations
+- Subscription Systems (Stripe)
 
 ---
 
 ## 💻 Tech Stack & Skills
 
-### 🚀 Linguagens de Programação
+### 🚀 Programming Languages
 [![My Skills](https://skillicons.dev/icons?i=python,javascript)](https://skillicons.dev)
 
 ---
@@ -40,40 +40,37 @@ Meu objetivo é evoluir como desenvolvedor Full Stack com foco em produtos escal
 
 ---
 
-### 🗄️ Banco de Dados
+### 🗄️ Databases
 [![My Skills](https://skillicons.dev/icons?i=postgresql,mysql,mongodb)](https://skillicons.dev)
 
 ---
 
-### 🤖 IA & Processamento de Dados
-[![My Skills](https://skillicons.dev/icons?i=python)](https://skillicons.dev)
+### 🤖 AI & Data Processing
 
-• NLP  
-• LLM Integration  
-• Text Processing  
-• Data Analysis  
-
----
-
-### 💳 SaaS & Pagamentos
-• Stripe Integration  
-• Subscription Logic  
-• Authentication (JWT)  
+- NLP  
+- LLM Integration  
+- Text Processing  
+- Data Analysis  
 
 ---
 
-### 🛠️ Ferramentas & DevOps
+### 💳 SaaS & Payments
+
+- Stripe Integration  
+- Subscription Logic  
+- JWT Authentication  
+
+---
+
+### 🛠️ Tools & DevOps
 [![My Skills](https://skillicons.dev/icons?i=git,github,vercel,linux,vscode)](https://skillicons.dev)
 
 ---
 
-### 🌐 Desenvolvimento Web
-[![My Skills](https://skillicons.dev/icons?i=nextjs,react)](https://skillicons.dev)
+## 📌 Main Project in Development
 
-## 📌 Projeto Principal em Desenvolvimento
-
-🚀 Amazon Review Intelligence Tool  
-AI-powered SaaS for Amazon sellers to extract actionable insights from product reviews.
+🚀 **Amazon Review Intelligence Tool**  
+An AI-powered SaaS platform designed for Amazon sellers to extract actionable insights from product reviews and improve decision-making.
 
 ---
 
@@ -82,7 +79,7 @@ AI-powered SaaS for Amazon sellers to extract actionable insights from product r
 
 ---
 
-## 🤝 Vamos Conectar
+## 🤝 Let's Connect
 
 [![Instagram](https://img.shields.io/badge/-kewincaue-purple?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/kewincaue/)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kewin-cau%C3%AA/)
