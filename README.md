@@ -79,6 +79,11 @@ An AI-powered SaaS platform designed for Amazon sellers to extract actionable in
 
 ---
 
+## 📊 Top Langs
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?Kewincaue=anuraghazra&layout=compact)](https://github.com/EthanJamesLew/github-readme-stats-academic)
+
+---
+
 ## 🤝 Let's Connect
 
 [![Instagram](https://img.shields.io/badge/-kewincaue-purple?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/kewincaue/)
