@@ -75,7 +75,7 @@ An AI-powered SaaS platform designed for Amazon sellers to extract actionable in
 ---
 
 ## 📊 GitHub Stats
-![Kewincaue's GitHub stats](https://github-readme-stats.vercel.app/api?Kewincaue=anuraghazra&show_icons=true&theme=radical)
+![Kewincaue's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kewincaue&theme=dracula&show_icons=true)
 
 ---
 
