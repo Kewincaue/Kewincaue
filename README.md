@@ -75,13 +75,7 @@ An AI-powered SaaS platform designed for Amazon sellers to extract actionable in
 ---
 
 ## 📊 GitHub Stats
-![Kewincaue GitHub stats](https://github-readme-stats.vercel.app/api?username=Kewincaue&rank_icon=percentile)
-
-<!-- Opção Nice Readme -->
-![Kewincaue GitHub Stats](https://nice-readme.vercel.app)
-
-<!-- Opção Fast Vercel -->
-![Kewincaue GitHub Stats](https://readme-stats-fast.vercel.app)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?Kewincaue=anuraghazra)](https://github.com/EthanJamesLew/github-readme-stats-academic)
 
 ---
 
